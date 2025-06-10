@@ -1,6 +1,6 @@
 # EZModbus
 
-Think of your server as a "virtual device" or a simulator. This configuration file defines how that virtual device behaves on the network and what data it holds.
+Setup your server by editing the `config.json` file.
 
 **The `server` section: The Network Connection**
 This section handles the "Modbus TCP" part. It's about how other devices (clients) find and connect to the server over a network.
