@@ -2,7 +2,7 @@
 
 Setup your server by editing the `config.json` file.
 
-**The `server` section: The Network Connection**
+**The `server` section:**
 This section handles the "Modbus TCP" part. It's about how other devices (clients) find and connect to the server over a network.
 
 ```JSON
